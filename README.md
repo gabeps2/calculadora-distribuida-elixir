@@ -10,7 +10,7 @@ Este projeto é um exemplo didádico do funcionamento de tarefas distribuídas u
 
 ## Execução do projeto
 
-Em uma janela do terminal, inicie o app em uma sessão iex nomeada
+Em uma janela do terminal, inicie o app em uma sessão iex nomeada:
 
 ```elixir
 iex --sname alex@localhost -S mix
@@ -35,7 +35,7 @@ iex(kate@localhost)1> 10 / 5 = 2.0
 
 Observe o retorno exibido no nó alex:
 ```elixir
-Resultado da operação: 2.0
+iex(alex@localhost)2> Resultado da operação: 2.0
 ```
 
 ## Contributing
