@@ -8,10 +8,6 @@ Este projeto é um exemplo didádico do funcionamento de tarefas distribuídas u
 
 [Elixir 1.12.0](https://elixir-lang.org/install.html) (compiled with Erlang/OTP 22)
 
-```bash
-pip install foobar
-```
-
 ## Execução do projeto
 
 Em uma janela do terminal, inicie o app em uma sessão iex nomeada
